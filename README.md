@@ -60,16 +60,5 @@ A interação com o bot é feita através de comandos simples e diretos no chat 
 
 ---
 
-## 🚀 Otimizações Futuras
-
-O projeto está em desenvolvimento ativo e as próximas otimizações planejadas visam torná-lo ainda mais robusto e funcional. Os próximos passos incluem:
-
-- **Persistência de Dados:** Implementação de um sistema para salvar todos os compromissos em um arquivo (JSON). Isso garantirá que os dados da agenda **não sejam perdidos** quando o bot for reiniciado.
-- **Descrição de Eventos:** Adicionar a funcionalidade de incluir uma **descrição detalhada** para cada evento, permitindo ao usuário salvar notas e informações importantes sobre seus compromissos.
-- **Tratamento de Erros Aprimorado:** Melhorar a forma como o bot lida com comandos inválidos, guiando o usuário a corrigir o formato da mensagem.
-- **Segurança do Token:** Mover o token de acesso para um arquivo de configuração separado ou uma variável de ambiente, uma prática essencial para a segurança do projeto.
-
----
-
 Desenvolvido com 🧠 por Miguel Antônio Barbosa Caetano  
 📧 miguelantoniobsk@gmail.com | 💼 www.linkedin.com/in/miguel-antoniobc
